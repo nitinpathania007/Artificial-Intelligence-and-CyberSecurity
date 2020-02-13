@@ -1,2 +1,2 @@
 # Artificial-Intelligence-and-CyberSecurity
-University of New Haven AU cybersecurity class assignements.
+University of New Haven AI cybersecurity class assignements.
