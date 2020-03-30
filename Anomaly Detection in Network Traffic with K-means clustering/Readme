@@ -15,4 +15,4 @@ https://colab.research.google.com/drive/1K0KCOWjeOFlWV6QnzADYrDa39H0zNKMI#scroll
 https://colab.research.google.com/drive/1IY1_t4wMq4H8F7eZ3Y6PjSMJdE21GjU2
 
 
-Using a clustering model on malicious, suspicious and beneign sample data of email. The pynb that uses 10% of the data plots data, the pynb that uses all the data cannot load all the data into memory to plot using only one plot.
+Using a clustering model on malicious, suspicious and beneign sample data of email. 
