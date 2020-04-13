@@ -49,4 +49,5 @@ https://github.com/jeffheaton/t81_558_deep_learning/blob/master/t81_558_class_13
 
 Task 3 – Create a client: This task is quite simple as well: create a Python code that loads a PE file, converts it into a feature vector that is compatible with your MalConv/EMBER model, runs the vector on the cloud API, and then prints the results (i.e., Malware or Benign – or probabilities of each). You can find a sample implementation here: https://github.com/endgameinc/ember/tree/master/malconv
 
-
+All tasks were completed successfully and here is the link to the presentation
+https://youtu.be/8ygCyvRZ07
