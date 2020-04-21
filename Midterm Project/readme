@@ -50,7 +50,7 @@ https://github.com/jeffheaton/t81_558_deep_learning/blob/master/t81_558_class_13
 Task 3 – Create a client: This task is quite simple as well: create a Python code that loads a PE file, converts it into a feature vector that is compatible with your MalConv/EMBER model, runs the vector on the cloud API, and then prints the results (i.e., Malware or Benign – or probabilities of each). You can find a sample implementation here: https://github.com/endgameinc/ember/tree/master/malconv
 
 All tasks were completed successfully and here is the link to the presentation
-https://youtu.be/8ygCyvRZ07
+https://youtu.be/FgQ00YcqtfI
 
 
 This is the code written in a pynb for training a deep neural network for binary Malware Classification. The dataset used is EMBER 2017 version 2. EMBER stands for Endgame Malware Benchmark for Research which is a large dataset composed of labeled and unlabeled samples of parsed features of PE header files from binaries under 2MB. Extracting and vectorizing features of these samples can be done through project LIEF's library which is bundled at the EMBER's GitHub.
