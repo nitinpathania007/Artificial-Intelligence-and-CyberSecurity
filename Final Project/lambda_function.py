@@ -10,7 +10,7 @@ def lambda_handler(event, context):
     
 def _predict_breast_cancer(image):
     response = sagemaker_runtime_client.invoke_endpoint(
-        EndpointName='breast-cancer-detection-ep-2019-07-01-19-38-55', 
+        EndpointName='breast-cancer-detection-api-2020-05-10-15-38-55', 
         ContentType='application/x-image', 
         Body=image
     )
